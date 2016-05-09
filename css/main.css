@@ -1,0 +1,59 @@
+input {
+	width: 100%;
+}
+
+table {
+	word-wrap: break-word;
+}
+
+table h3 {
+	display: inline-block;
+	margin-right: 15px;
+}
+
+.delete {
+	width: 25px;
+}
+
+.fa {
+	font-size: 23px;
+}
+
+#form-toggle {
+	width: 125px;
+}
+
+.jumbotron {
+	background-image: linear-gradient(to right,#eb9316 0,#f0ad4e 100%);
+	color: white;
+}
+
+#optimize-row {
+	text-align: center;
+}
+
+.panel-body {
+	padding: 0 15px;
+}
+
+.panel-body table {
+	margin-bottom: 0;
+}
+
+.panel-heading h3 {
+	margin: 5px auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
